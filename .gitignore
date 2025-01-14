@@ -1,0 +1,5 @@
+.gradle
+.maven
+.vscode
+/target
+.jdk8
